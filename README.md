@@ -1,7 +1,6 @@
 # Python-Tree-Class
-This is an example of Python tree class.
+This is an example of Python tree class using OOP (Object Oriented Programming).
 #
-
     class Tree:
         def tree_data(self, n, c, q, r, v):
             self._name = n
